@@ -1,0 +1,15 @@
+This game needs 4 game controllers(XBox or equivalent)
+Tutorial will teach you the basic controls, but I will list them here for reference
+************************************************************************************
+Snowman Character:
+X: Dash
+B: Build a snow wall
+A: Collect snow from the walls you built
+RB: Melee attack
+-------------------------------------------
+Snowboy Character
+A: Collect Snow from snow piles or your snowman teammate
+B: Build cannon on top of the snow wall built by teammate snowman
+RB: aim & shoot
+*************************************************************************************
+Left Stick & Right Stick to move around & navigate your character
