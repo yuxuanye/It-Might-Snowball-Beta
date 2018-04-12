@@ -11,5 +11,7 @@ Snowboy Character
 A: Collect Snow from snow piles or your snowman teammate
 B: Build cannon on top of the snow wall built by teammate snowman
 RB: aim & shoot
+once the cannon is built: press B to get in or get out of the cannon, 
+RB to shoot gaint cannon balls, Right Stick to control the cannon's aim.
 *************************************************************************************
 Left Stick & Right Stick to move around & navigate your character
